@@ -14,8 +14,8 @@ It contains four tables or models:
 
 Given end points are working fine
 
-http://127.0.0.1:8000/api/works
-http://127.0.0.1:8000/api/works?artist=khan
-http://127.0.0.1:8000/api/works?work_type=Youtube
-http://127.0.0.1:8000/api/register
-body {"username":"testuser2","password":"123123"}
+1) http://127.0.0.1:8000/api/works
+2) http://127.0.0.1:8000/api/works?artist=khan
+3)http://127.0.0.1:8000/api/works?work_type=Youtube
+4) http://127.0.0.1:8000/api/register
+  body {"username":"testuser2","password":"123123"}
